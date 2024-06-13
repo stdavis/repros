@@ -1,0 +1,17 @@
+{
+  "name": "ncc-import-meta-url",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "conventional-changelog-angular": "^8.0.0",
+    "conventional-recommended-bump": "^10.0.0"
+  },
+  "devDependencies": {
+    "@vercel/ncc": "^0.38.1"
+  }
+}
